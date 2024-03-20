@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const sample = await inquirer.prompt([{
         message: "Enter your frist number",
